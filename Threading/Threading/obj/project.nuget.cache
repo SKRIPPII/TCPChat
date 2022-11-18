@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgTrY4DTtrUY4V4Wb5H2mBDnS7++9j9Tv3ct/sHqvFm+KOHbIKxqI82viOjoc/yqO5Pu3xk09oIALc8faW4ebw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timak\\source\\repos\\Threading\\Threading\\Threading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timak\\.nuget\\packages\\flurl\\3.0.6\\flurl.3.0.6.nupkg.sha512",
+    "C:\\Users\\timak\\.nuget\\packages\\flurl.http\\4.0.0-pre2\\flurl.http.4.0.0-pre2.nupkg.sha512"
+  ],
+  "logs": []
+}

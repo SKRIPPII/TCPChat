@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Threading/1.0.0": {
+        "dependencies": {
+          "Flurl": "3.0.6",
+          "Flurl.Http": "4.0.0-pre2"
+        },
+        "runtime": {
+          "Threading.dll": {}
+        }
+      },
+      "Flurl/3.0.6": {
+        "runtime": {
+          "lib/netstandard2.0/Flurl.dll": {
+            "assemblyVersion": "3.0.6.0",
+            "fileVersion": "3.0.6.0"
+          }
+        }
+      },
+      "Flurl.Http/4.0.0-pre2": {
+        "dependencies": {
+          "Flurl": "3.0.6"
+        },
+        "runtime": {
+          "lib/net6.0/Flurl.Http.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Threading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Flurl/3.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XMIlB/tJ4nTYF2+79xDsnnlgbXHpKyizKX2fffrECekI6pEsa9MSLzf5tPVMdLy4k4AcJPLs356Sa2Le5VRDCw==",
+      "path": "flurl/3.0.6",
+      "hashPath": "flurl.3.0.6.nupkg.sha512"
+    },
+    "Flurl.Http/4.0.0-pre2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ArHsL5V1YQyY2ji0U5YkffYL9h7Xbbe9p+Sbluwbh4o10CwDHU1VnDumEMkYln0MDOldP8uIjFFKYQtKHXfeFg==",
+      "path": "flurl.http/4.0.0-pre2",
+      "hashPath": "flurl.http.4.0.0-pre2.nupkg.sha512"
+    }
+  }
+}
